@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* CSS Document */
+#first .jumbotron{
+	
+
+	height: 50vh;
+	background-color:#F8D3BD;
+}
+#first h1{
+	color:#532302;
+	font-family: cursive;
+}
+#first p{
+	color:#2402AC;
+	
+}
+#first img{
+	
+	margin-top:0px;
+	margin-left:0px;
+	
+}
+#indexfirst h2{
+	margin-top:80px;
+	margin-left:110px;
+	font-size: 30px;
+	
+}
+#indexfirst p{
+	margin-top:85px;
+    font-size: 25px;
+	color:#02083D;
+}
+#indexsecond .jumbotron{
+	background-color:#1D1919;
+	margin-top:100px;
+	margin-bottom: 0px;
+	height: 55vh;
+}
+#indexsecond h1{
+	color:#FFFFFF;
+	
+}
+#indexsecond p{
+	color:#FFFFFF;
+	margin-top:60px;
+	font-size:25px;
+	font-family: cursive;
+}
+#indexsecond .btn-group{
+	margin-top:40px;
+	
+}
+#introfirst .card {
+	margin-right: 600px;
+	margin-left:600px;
+	margin-top:40px;
+}
+#introsecond .card{
+	margin-top:30px;
+	
+}
+#introthird .card{
+	margin-top:30px;
+	
+}
+#introfourth .card{
+	margin-top:30px;
+	
+	
+}
+#introfirst h1{
+	
+	margin-left:340px;
+}
+
+#introfirst .jumbotron{
+	margin-top:40px;
+	background-color:cornsilk;
+}
+#introfirst .display-4{
+	color:#FF8600;
+	font-family: cursive;
+}
+#introsecond p{
+	
+	color:#3417C9;
+}
+#introthird p{
+	
+	color:#16D1F0;
+}
+#introfourth p{
+	color:#14E4D4;
+}
+#introfifth .card{
+	margin-top:40px;
+	margin-bottom:40px;
+	height:30vh;
+	background-color:navajowhite;
+	
+}
+#introfifth h4{
+	font-size: 30px;
+	margin-top:30px;
+}
+#introfifth p{
+	margin-top:30px;
+	font-size: 25px;
+}
+#introfifth a{
+	margin-top:20px;
+	color:#EB5700;
+	font-family: cursive;
+}
+
+#QAsecond .card{
+	
+	margin-top:40px;
+}
+#QAsecond p{
+	color:#2B1D0C;
+}
+#QAthird .card{
+	
+	margin-top:40px;
+} 
+#QAthird p{
+	color:#076353;
+}
+#QAfourth .card{
+	margin-top:40px;
+	margin-bottom:0px;
+	background-color:#FFA042	;
+}
+#QAfourth h5{
+	font-size: 30px;
+	margin-top:30px;
+}
+#QAfourth a{
+	margin-top:20px;
+	color :#5B1FEF;
+	font-family: cursive;
+	
+}
+#QAfifth p{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+
+
+
+
+
+
+
+
